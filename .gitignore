@@ -163,3 +163,4 @@ cython_debug/
 #ignoring Local repositories
 TUTORIALS/
 References/
+dataset/
